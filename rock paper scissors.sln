@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "rock paper scissors", "..\..\..\Desktop\rock paper scissors\", "{870E97A4-B466-43AE-974C-9B4FE591268E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62539"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\rock paper scissors\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62539\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62539"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\rock paper scissors\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62539\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62539"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870E97A4-B466-43AE-974C-9B4FE591268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E97A4-B466-43AE-974C-9B4FE591268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C8B08A8-72D7-4BC5-8A89-49231331289B}
+	EndGlobalSection
+EndGlobal
